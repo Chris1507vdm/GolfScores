@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Golf Scores</string>
+    <string name="action_clear_strokes">Clear Strokes</string>
+    <string name="player2">Player 2</string>
+</resources>
